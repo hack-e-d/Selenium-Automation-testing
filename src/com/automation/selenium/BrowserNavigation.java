@@ -35,7 +35,7 @@ public class BrowserNavigation {
 			System.out.println("The URL is a mismatch.");
 		}
 		
-//		selinium can alter the forward back and reload functions
+//		selenium can alter the forward back and reload functions
 		
 		driver.navigate().back();
 
